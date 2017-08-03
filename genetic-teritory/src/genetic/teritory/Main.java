@@ -30,7 +30,7 @@ public class Main {
 
     private void execute() {
         Mapa map = iniciaDados();
-        //TODO LOGIC FOR ALTER COLOR
+        //TODO - Logic to change the color of the territory
         saida(map);
     }
 
