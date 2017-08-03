@@ -13,10 +13,8 @@ import java.util.List;
  * @author Alunos
  */
 public class Territorio {
-
     private static Long SEQUENCE = 0L;
-    public static Long NUM_TERRITORIO_MAXIMO = 4L;
-
+    
     private Long id;
     private Integer cor;
     private List<Territorio> adjacentes;

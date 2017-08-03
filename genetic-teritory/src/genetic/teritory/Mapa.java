@@ -15,7 +15,6 @@ import java.util.List;
 public class Mapa {
 
     private static Long SEQUENCE = 0L;
-    public static Long NUM_TERRITORIO_MAXIMO = 4L;
 
     private Long id;
     private List<Territorio> territorios;
